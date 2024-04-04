@@ -358,7 +358,7 @@ body {
   .about-me .content h3 {
     font-weight: 700;
     font-size: 30px;
-    color: #2b599e;
+    color: #3f80e0;
   }
   
   .about-me .content ul {
@@ -379,7 +379,7 @@ body {
   .about-me .content ul i {
     font-size: 16px;
     margin-right: 5px;
-    color: #2b599e;
+    color: #3f80e0;
     line-height: 0;
   }
   
@@ -411,7 +411,7 @@ body {
     font-weight: 600;
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
-    color:  #2b599e;
+    color:  #3f80e0;
     margin-bottom: 10px;
   }
   
@@ -444,8 +444,8 @@ body {
     border-radius: 50px;
     left: -9px;
     top: 0;
-    background:  #052659;
-    border: 2px solid  #052659;
+    background:  #3f80e0;
+    border: 2px solid  #3f80e0;
   }
   
   /*--------------------------------------------------------------
