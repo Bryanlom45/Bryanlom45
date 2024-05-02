@@ -503,7 +503,7 @@ body {
 
   .portfolio .portfolio-wrap img {
     height: 250px;
-    width: 400px;
+    width: 100%;
   }
   
   .portfolio .img1{
