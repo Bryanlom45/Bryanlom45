@@ -489,7 +489,7 @@ body {
   # Portfolio
   --------------------------------------------------------------*/
   .portfolio .portfolio-item {
-    margin-bottom: 3px;  
+    margin-bottom: 23px;  
   }
   
   .portfolio .portfolio-wrap {
@@ -506,33 +506,7 @@ body {
     width: 100%;
   }
   
-  .portfolio .img1{
-    rotate: -16deg;
-  }
-  .portfolio .img2{
-    rotate: 16deg;
-  }
-  .portfolio .img3{
-    rotate: -11deg;
-  }
-  .portfolio .img4{
-    rotate: 16deg;
-  }
-  .portfolio .img5{
-    rotate: -14deg;
-  }
-  .portfolio .img6{
-    rotate: -5deg;
-  }
-  .portfolio .img7{
-    rotate: -10deg;
-  }
-  .portfolio .img8{
-    rotate: 9deg;
-  }
-  .portfolio .img9{
-    rotate: -10deg;
-  }
+
   
   .portfolio .portfolio-wrap:hover{
     rotate: none;
